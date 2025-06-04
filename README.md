@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Benjamin! 👋
 
-<!--
-**devpoggio/devpoggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate software developer with experience in Web Design, Java, Python, C#, MySQL, etc. I love learning, creating innovative solutions, and improving my skills every day. My goal is to add value through collaborative projects and contribute to the open-source community.
 
-Here are some ideas to get you started:
+### 🔧 Technologies and tools I use:
+- **Languages:** Python, Java, JavaScript, C#
+- **Databases:** MySQL
+- **Tools:** Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I am currently learning:
+- **Frameworks:** Bootstrap
+- **Skills:** UX/UI Design
+
+### 📫 Connect with me:
+- **[Twitter/X](https://x.com/devpoggio)**
+
+Thanks for visiting my profile! 🚀
